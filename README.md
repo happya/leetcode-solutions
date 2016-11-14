@@ -2,7 +2,7 @@
 ---
 As a beginner and amateur of learning algorithms, I try to solve to leetcode problems with python language to improve my sensing of learning.
 
-update Nov.11,2016
+update Nov.14,2016
 ---
 No. 1: two sum, easy
 
