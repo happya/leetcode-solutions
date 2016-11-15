@@ -19,8 +19,8 @@ No. 50: pow(x,n), easy
 update Nov.15, 2016
 ---
 No. 7： reverse integer, easy  
-No. 6:  zigzag reversion, easy  
-No. 2: add two numbers, easy
-No. 3: Longest Substring Without Repeating Characters, medium
-No. 4: Median of Two Sorted Arrays, hard
+No. 6:  zigzag reversion, easy    
+No. 2: add two numbers, easy  
+No. 3: Longest Substring Without Repeating Characters, medium  
+No. 4: Median of Two Sorted Arrays, hard  
 
