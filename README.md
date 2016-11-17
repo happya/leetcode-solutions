@@ -28,5 +28,8 @@ update Nov.17, 2016
 | Number | Problem  |level|
 |--------|----------|-----|
 |[No. 5](https://leetcode.com/problems/longest-palindromic-substring/)  |longest Palindromic substring |medium| 
-|[No. 14] (https://leetcode.com/problems/longest-common-prefix/) |longest common prefix |easy|
+|[No. 14](https://leetcode.com/problems/longest-common-prefix/) |longest common prefix |easy|
+|[No.15](https://leetcode.com/problems/3sum/)| 3Sum |medium|
+|[No.8](https://leetcode.com/problems/string-to-integer-atoi/)|string to integer|easy|
+|[No.11](https://leetcode.com/problems/container-with-most-water/)|container with most water|medium
 
