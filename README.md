@@ -26,6 +26,8 @@ No. 4: Median of Two Sorted Arrays, hard
 
 update Nov.17, 2016  
 ---
+| Number | Problem  |level|
+|--------|----------|-----|
 |No. 5: |longest Palindromic substring, |medium
 |No. 14: |longest common prefix, |easy
 
