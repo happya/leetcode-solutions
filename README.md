@@ -24,3 +24,8 @@ No. 2: add two numbers, easy
 No. 3: Longest Substring Without Repeating Characters, medium  
 No. 4: Median of Two Sorted Arrays, hard  
 
+update Nov.17, 2016  
+---
+|No. 5: |longest Palindromic substring, |medium
+|No. 14: |longest common prefix, |easy
+
