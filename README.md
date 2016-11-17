@@ -28,6 +28,6 @@ update Nov.17, 2016
 ---
 | Number | Problem  |level|
 |--------|----------|-----|
-|[No. 5] [5] |longest Palindromic substring |medium|[5]: https://leetcode.com/problems/longest-palindromic-substring/
-|[No. 14] [14] |longest common prefix |easy|[14]: https://leetcode.com/problems/longest-common-prefix/
+|[No. 5](https://leetcode.com/problems/longest-palindromic-substring/)  |longest Palindromic substring |medium| 
+|[No. 14] (https://leetcode.com/problems/longest-common-prefix/) |longest common prefix |easy|
 
