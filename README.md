@@ -33,3 +33,19 @@ update Nov.17, 2016
 |[No.8](https://leetcode.com/problems/string-to-integer-atoi/)|string to integer|easy|
 |[No.11](https://leetcode.com/problems/container-with-most-water/)|container with most water|medium
 
+update Nov.17, 2016  
+---
+| Number | Problem  |level|
+|--------|----------|-----|
+|[No.39](https://leetcode.com/problems/combination-sum/)| combination sum | medium|
+
+update Nov.24, 2016  
+---
+| Number | Problem  |level|
+|--------|----------|-----|
+|[No.40](https://leetcode.com/problems/combination-sum-ii/)| combination sum | medium|
+|[No.84](https://leetcode.com/problems/largest-rectangle-in-histogram/)|largest rectangle in histogram|hard|
+|[No.463](https://leetcode.com/problems/island-perimeter/)|Island Perimeter|easy|
+|[No.48](https://leetcode.com/problems/length-of-last-word/)|length of last word|easy|
+|[No.54](https://leetcode.com/problems/spiral-matrix/)|spiral matrix|medium|
+
