@@ -49,3 +49,10 @@ update Nov.24, 2016
 |[No.48](https://leetcode.com/problems/length-of-last-word/)|length of last word|easy|
 |[No.54](https://leetcode.com/problems/spiral-matrix/)|spiral matrix|medium|
 
+
+pdate Sep.12, 2017  
+---
+| Number | Problem  |level|
+|--------|----------|-----|
+|[No.338](https://leetcode.com/problems/counting-bits/description/)| Counting bits | medium|
+
