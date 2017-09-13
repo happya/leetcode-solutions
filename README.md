@@ -49,3 +49,14 @@ update Nov.24, 2016
 |[No.48](https://leetcode.com/problems/length-of-last-word/)|length of last word|easy|
 |[No.54](https://leetcode.com/problems/spiral-matrix/)|spiral matrix|medium|
 
+update Nov.25, 2016  
+---
+| Number | Problem  |level|
+|--------|----------|-----|
+|[No.55](https://leetcode.com/problems/jump-game/)| jump game | medium|
+|[No.](https://leetcode.com/problems/largest-rectangle-in-histogram/)||hard|
+|[No.463](https://leetcode.com/problems/island-perimeter/)|Island Perimeter|easy|
+|[No.48](https://leetcode.com/problems/length-of-last-word/)|length of last word|easy|
+|[No.54](https://leetcode.com/problems/spiral-matrix/)|spiral matrix|medium|
+
+
