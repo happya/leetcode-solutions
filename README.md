@@ -66,7 +66,7 @@ update Sep.12, 2017
 | Number | Problem  |level|
 |--------|----------|-----|
 |[No.338](https://leetcode.com/problems/counting-bits/description/)| Counting bits | medium|
-|[No.17]|(https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|
+|[No.17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Letter Combinations of a Phone Number|medium|
 [No.19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Remove Nth Node from End of List|medium|
 
 
