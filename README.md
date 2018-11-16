@@ -49,7 +49,6 @@ update Nov.24, 2016
 |[No.48](https://leetcode.com/problems/length-of-last-word/)|length of last word|easy|
 |[No.54](https://leetcode.com/problems/spiral-matrix/)|spiral matrix|medium|
 
-<<<<<<< HEAD
 update Nov.25, 2016  
 ---
 | Number | Problem  |level|
@@ -62,12 +61,12 @@ update Nov.25, 2016
 
 =======
 
-pdate Sep.12, 2017  
+update Sep.12, 2017  
 ---
 | Number | Problem  |level|
 |--------|----------|-----|
 |[No.338](https://leetcode.com/problems/counting-bits/description/)| Counting bits | medium|
-|[No.17]|Letter combinations of a phone number|medium|
+|[No.17]|(https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|
 [No.19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Remove Nth Node from End of List|medium|
 
 
