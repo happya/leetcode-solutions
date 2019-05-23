@@ -71,4 +71,7 @@ update DP collections
 |[No.983](<https://leetcode.com/problems/minimum-cost-for-tickets/>)|Minimum cost for tickets|Medium|DP|
 |[No. 1048](<https://leetcode-cn.com/problems/longest-string-chain/>)|最长字符串链|Medium|DP|
 |[No. 714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|买卖股票的最佳时机含手续费|Medium|DP|
+|[No.188](<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/>)|买卖股票的最佳时期IV|Hard|DP|
+|[No.64](<https://leetcode-cn.com/problems/minimum-path-sum/>)|最小路径和|M（感觉应该算Easy）|DP|
+|[No.120](<https://leetcode-cn.com/problems/triangle/>)|三角形最小路径和|M|DP|
 
